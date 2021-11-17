@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmation
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on my economy
-- 📫 How to reach me ???
+- 📫 How to reach me jj.briasco@gmail.com
 
 <!---
 JJBandana/JJBandana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

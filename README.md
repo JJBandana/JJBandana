@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JJBandana
-- 👀 I’m interested in programmation
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on my economy
 - 📫 How to reach me jj.briasco@gmail.com

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JJBandana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, HTML, CSS and Javascrypt
 - 💞️ I’m looking to collaborate on my economy
-- 📫 How to reach me jj.briasco@gmail.com
+- 📫 How to reach me: jj.briasco@gmail.com
 
 <!---
 JJBandana/JJBandana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

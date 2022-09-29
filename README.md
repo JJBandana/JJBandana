@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJBandana
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Game Development
+- 🌱 I’m currently learning Web and Game Development
 - 💞️ I’m looking to collaborate on my economy
 - 📫 How to reach me: jj.briasco@gmail.com
 

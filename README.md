@@ -4,7 +4,6 @@
 - 🌱 I’m learning the latest super course in fullstackopen.com
 - Also I'm studying a Software Developer carrer in Universidad Tecnológina Nacional, Argentina.
 - ⚡ Fun fact: I love cats
-- 👀 I’m interested in automation
 - 📫 How to reach me: jj.briasco@gmail.com
 
 <!---

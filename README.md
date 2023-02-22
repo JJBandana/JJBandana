@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @JJBandana
 - 🔭 I’m currently working on my portfolio's projects and upgrading my skills.
-- 🌱 I’m learning the latest super course in fullstackopen.com
 - 👀 Also I'm studying a Software Developer carreer in Universidad Tecnológina Nacional, Argentina.
+- 🌱 I’m learning the latest super course in fullstackopen.com
 - ⚡ Fun fact: I love cats
 - 📫 How to reach me: jj.briasco@gmail.com
 

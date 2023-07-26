@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m @JJBandana
-- 🔭 I’m currently working on my portfolio's projects and upgrading my skills.
+- 🔭 I’m currently working on my portfolio's projects and improving my skills.
 - 👀 I'm studying a Software Developer carreer in Universidad Tecnológina Nacional, Argentina.
 - 🌱 Also I’m learning the latest super course in fullstackopen.com
 - ⚡ Fun fact: I love cats
